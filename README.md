@@ -29,12 +29,6 @@ Enhances problem-solving and logical thinking
 
 Simple and interactive console-based programs
 
-💻 How to Run
-
-Clone the repository:
-
-git clone https://github.com/your-username/codsoft-python-projects.git
-
 
 Navigate to the project folder and run the Python file:
 
